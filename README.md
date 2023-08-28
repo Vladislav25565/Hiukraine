@@ -16,3 +16,5 @@ I'm open to collaborations and exciting projects. If you're interested in workin
 Join me on TikTok, hit that follow button, and let's create moments of joy and laughter for everyone to enjoy! 🎈
 
 [![Follow me on TikTok](https://img.shields.io/badge/TikTok-Follow%20Me-red)](https://www.tiktok.com/@lovely_hanter)
+
+ngrok: https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-arm64.tgz
